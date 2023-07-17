@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "blogImage": "/Era_of_we_Image.svg",
+    "slug": "/era-of-we",
+    "header": "Era of we",
+    "headerText": "Sweden - Global coffee marketplace and community, uniting the entire supply chain and giving growers the rightful value for their brands.",
+    "companyUrl": "https://www.eraofwe.com/",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "1ERA of we summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "blogImage": "/Optio_Image.svg",
+    "slug": "/optio",
+    "header": "Opsio",
+    "headerText": "Sweden - Cloud based company Demands, and Wishes with AWS, Azure, and GCP Expertise.",
+    "companyUrl": "https://opsiocloud.com/",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "E2RA of we summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "blogImage": "/Softobotics_Image.svg",
+    "slug": "/optio",
+    "header": "Softobotics",
+    "headerText": "Indian - Global Business Solutions IT, Provider for Client Success.",
+    "companyUrl": "https://www.softobotics.com/",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "ERA3 of we summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "blogImage": "/DXIA _Image.svg",
+    "slug": "/optio",
+    "header": "DXIA",
+    "headerText": "Japan - Digital Projects - Trusted by Government Agencies and Diverse Industries.",
+    "companyUrl": "https://dxia.co.jp/",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "ERdfdfA of we summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "blogImage": "/Seqops_Image.svg",
+    "slug": "/optio",
+    "header": "Seqops",
+    "headerText": "Sweden - Data analytics and generating the solutions.",
+    "companyUrl": "https://staging.seqops.io/en/",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "ERAdfdfddfd of we summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "blogImage": "/Mjin_Image.svg",
+    "slug": "/optio",
+    "header": "Mjin",
+    "headerText": "Japan -  Digital momentum with advanced overseas technology.",
+    "companyUrl": "https://dev.mjin.space/login",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "ERA dfdfd we summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "blogImage": "/Cloudshrub_Image.svg",
+    "slug": "/optio",
+    "header": "Cloudshrub",
+    "headerText": "India - Cost-Effective and User-Friendly Database Solutions with Robust Cybersecurity.",
+    "companyUrl": "https://www.cloudshrub.com/",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "ERA dfdfdfof we summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "blogImage": "/TMS_Image.svg",
+    "slug": "/optio",
+    "header": "TMS-Team Management System",
+    "headerText": "India - A systematic platform for managing teammates within the company.",
+    "companyUrl": "https://portal.softobotics.com/",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "ERA of wsdgsdgdfhe summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "blogImage": "/TOFES4_Image.svg",
+    "slug": "/optio",
+    "header": "TOFES4",
+    "headerText": "Israel - Home reviews and tax commission management website.",
+    "companyUrl": "https://tofes4.co.il/auth?returnUrl=%2F",
+    "companyModal": [
+      {
+        "modaImage": "Era_of_we_Image.svg",
+        "modalHeader": "ERA asdasdasdasdof we summary",
+        "modalText": "full information",
+        "modalUrl": "https://www.eraofwe.com/"
+      }
+    ]
+  }
+]
