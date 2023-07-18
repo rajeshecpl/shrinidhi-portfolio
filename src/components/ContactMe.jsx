@@ -1,6 +1,7 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 import "../assets/scss/index.scss";
+import arrow from "../assets/images/Arrow_Green_Icon.svg"
 
 export default function ContactMe() {
   return (
@@ -22,13 +23,13 @@ export default function ContactMe() {
             </div>
             <div className="row">
               <div className="col-lg-4 col-md-4 col-12 text-center ContactColor">
-                Whatsapp - 9986706697
+                Whatsapp - 9986706697 <img src={arrow} alt="arrow" class="ms-1" />
               </div>
               <div className="col-lg-4 col-md-4 col-12 text-center ContactColor">
-                Call me +91 9986706697
+                Call me +91 9986706697<img src={arrow} alt="arrow"class="ms-2" />
               </div>
               <div className="col-lg-4 col-md-4 col-12 text-center ContactColor">
-                View Portfolio
+                View Portfolio<img src={arrow} alt="arrow"class="ms-2" />
               </div>
             </div>
      

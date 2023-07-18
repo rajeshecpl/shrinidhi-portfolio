@@ -9,7 +9,7 @@ import tree from "../assets/images/treeConnect.svg"
 export default function Feedback() {
   console.log(feedback, "feed");
   return (
-    <div className="bgFeedback">
+    <div className="bgFeedback customCard">
       <Container className="py-5">
         <Row className="mt-4">
           <div className="col-6">

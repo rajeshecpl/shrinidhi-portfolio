@@ -7,8 +7,8 @@ function CompanyCard({ data }) {
   const [showModal, setShowModal] = useState(false);
   return (
     <div className="mob-description">
-      <Col className="my-lg-3 my-2">
-        <Card className="benefit-card h-100">
+      <Col className="h-100 pb-4">
+        <Card className="benefit-card h-100 custom-card">
           <div className="cursorPointer" onClick={() => setShowModal(true)}>
             <Card.Title className="">
               <div className="">
