@@ -26,3 +26,17 @@
   .dropdown-toggle:hover{
     border: 2px solid #D4AE5E!important;
 }
+
+
+.navbar {
+  transition: background-color 0.3s, color 0.3s!important;
+  z-index: 9999!important;
+}
+
+.sticky .navbar {
+  background-color: #232334;
+  color: white!important;
+  .nav-link{
+    color: white!important;
+  }
+}

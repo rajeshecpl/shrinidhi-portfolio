@@ -10,7 +10,7 @@ export default function OptimisticDesign() {
   return (
     <Container className='my-5'>
       <Row>
-        <div className="col-7"><img src={design} alt="" /></div>
+        <div className="col-7"><img src={design} alt="optimisticsDesign" className='w-100' /></div>
         <div className="align-items-center col-5 d-flex justify-content-center">
             <div className="">
             <div>
