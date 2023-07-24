@@ -77,7 +77,7 @@ export default function ModalSummary({
                 <button className="btn btn-success">How it works</button>
               </div>
               <div className="">
-                <a href={companyModalData[0].modalUrl}>{companyModalData[0].modalUrl}</a>
+                <a href={companyModalData[0].modalUrl} target="_blank"  rel="noreferrer" class="text-decoration-none">{companyModalData[0].modalUrl}</a>
               </div>
             </div>
 
