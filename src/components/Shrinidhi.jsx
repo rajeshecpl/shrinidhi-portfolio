@@ -6,7 +6,7 @@ import facebook from "../assets/images/facebook.svg";
 import instragram from "../assets/images/instagram.svg";
 import linkedin from "../assets/images/linkedin.svg";
 import arrow from "../assets/images/arrow.svg";
-import { Container, Card, Row } from "react-bootstrap";
+import { Container,Row } from "react-bootstrap";
 
 const Shrinidhi = () => {
   return (
