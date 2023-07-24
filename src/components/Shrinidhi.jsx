@@ -52,6 +52,7 @@ const Shrinidhi = () => {
               <a
                 href="https://instagram.com/shrinidhiupadhya?igshid=OGQ5ZDc2ODk2ZA=="
                 target="_blank"
+                rel="noreferrer"
               >
                 <img src={facebook} alt="Instagram" className="" />
               </a>
@@ -60,6 +61,7 @@ const Shrinidhi = () => {
               <a
                 href="https://instagram.com/shrinidhiupadhya?igshid=OGQ5ZDc2ODk2ZA=="
                 target="_blank"
+                rel="noreferrer"
               >
                 <img src={instragram} alt="Instagram" className="" />
               </a>
@@ -68,6 +70,7 @@ const Shrinidhi = () => {
               <a
                 href="https://www.linkedin.com/in/shrinidhi-upadhya-b68307220"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img src={linkedin} alt="in" className="" />
               </a>

@@ -17,15 +17,17 @@ export default function Footer() {
             <a
               href="https://www.linkedin.com/in/shrinidhi-upadhya-b68307220"
               target="_blank"
+              rel="noreferrer"
             >
               <img src={linkedin_Icon} alt="in" className="me-3" />
             </a>
-            <a href="https://www.behance.net/shrinidhi_upadhya" target="_blank">
+            <a href="https://www.behance.net/shrinidhi_upadhya" target="_blank"   rel="noreferrer">
               <img src={Be_Icon} alt="Be" className="me-3" />
             </a>
             <a
               href="https://instagram.com/shrinidhiupadhya?igshid=OGQ5ZDc2ODk2ZA=="
               target="_blank"
+              rel="noreferrer"
             >
               <img src={Insta_Icon} alt="Instagram" className="me-3" />
             </a>
@@ -35,6 +37,7 @@ export default function Footer() {
               href="mailto:Shrinidhi100@gmail.com"
               className="text-decoration-none text-dark"
               target="_blank"
+              rel="noreferrer"
             >
               <img src={Message_Icon} alt="message" className="me-3" />
             </a>
@@ -43,6 +46,7 @@ export default function Footer() {
               href="mailto:Shrinidhi100@gmail.com"
               className="text-decoration-none text-dark"
               target="_blank"
+              rel="noreferrer"
             >
               Shrinidhi100@gmail.com
             </a>
