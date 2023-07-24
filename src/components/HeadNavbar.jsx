@@ -50,48 +50,54 @@ const HeadNavbar = () => {
                     show={isOpen}
                     className="me-3"
                   >
-                    <Dropdown.Item href="https://www.eraofwe.com/" target="_blank">
+                    <Dropdown.Item href="https://www.eraofwe.com/" target="_blank"   rel="noreferrer">
                       Era of we
                     </Dropdown.Item>
-                    <Dropdown.Item href="https://opsiocloud.com/" target="_blank">
+                    <Dropdown.Item href="https://opsiocloud.com/" target="_blank"   rel="noreferrer">
                       Opsio
                     </Dropdown.Item>
                     <Dropdown.Item
                       href="https://www.softobotics.com/"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       Softobotics
                     </Dropdown.Item>
-                    <Dropdown.Item href="https://dxia.co.jp/" target="_blank">
+                    <Dropdown.Item href="https://dxia.co.jp/" target="_blank"   rel="noreferrer">
                       DXIA
                     </Dropdown.Item>
                     <Dropdown.Item
                       href="https://staging.seqops.io/en/"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       Seqops
                     </Dropdown.Item>
                     <Dropdown.Item
                       href="https://dev.mjin.space/login"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       Mjin
                     </Dropdown.Item>
                     <Dropdown.Item
                       href="https://www.cloudshrub.com/"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       Cloudshrub
                     </Dropdown.Item>
                     <Dropdown.Item
                       href="https://portal.softobotics.com/"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       TMS-Team Management System
                     </Dropdown.Item>
                     <Dropdown.Item
                       href="https://tofes4.co.il/auth?returnUrl=%2F"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       TOFES4
                     </Dropdown.Item>

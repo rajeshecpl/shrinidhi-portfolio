@@ -7,7 +7,6 @@ import Call_Icon from "../../src/assets/images/Call_Icon.svg";
 import Message_Icon from "../../src/assets/images/Message_Icon.svg";
 import WhatsApp_Icon from "../../src/assets/images/WhatsApp_Icon.svg";
 import Be_Icon from "../../src/assets/images/Be_Icon.svg";
-import { Link } from "react-router-dom";
 
 export default function Footer() {
   return (
@@ -18,15 +17,17 @@ export default function Footer() {
             <a
               href="https://www.linkedin.com/in/shrinidhi-upadhya-b68307220"
               target="_blank"
+              rel="noreferrer"
             >
               <img src={linkedin_Icon} alt="in" className="me-3" />
             </a>
-            <a href="https://www.behance.net/shrinidhi_upadhya" target="_blank">
+            <a href="https://www.behance.net/shrinidhi_upadhya" target="_blank"   rel="noreferrer">
               <img src={Be_Icon} alt="Be" className="me-3" />
             </a>
             <a
               href="https://instagram.com/shrinidhiupadhya?igshid=OGQ5ZDc2ODk2ZA=="
               target="_blank"
+              rel="noreferrer"
             >
               <img src={Insta_Icon} alt="Instagram" className="me-3" />
             </a>
@@ -36,6 +37,7 @@ export default function Footer() {
               href="mailto:Shrinidhi100@gmail.com"
               className="text-decoration-none text-dark"
               target="_blank"
+              rel="noreferrer"
             >
               <img src={Message_Icon} alt="message" className="me-3" />
             </a>
@@ -44,6 +46,7 @@ export default function Footer() {
               href="mailto:Shrinidhi100@gmail.com"
               className="text-decoration-none text-dark"
               target="_blank"
+              rel="noreferrer"
             >
               Shrinidhi100@gmail.com
             </a>
