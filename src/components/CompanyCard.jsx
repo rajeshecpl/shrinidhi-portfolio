@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Card, Col, Row } from "react-bootstrap";
+import { Card, Col } from "react-bootstrap";
 import "../assets/scss/index.scss";
 import ModalSummary from "./ModalSummary";
 
@@ -8,7 +8,7 @@ function CompanyCard({ data }) {
   return (
     <div className="mob-description">
       <Col className="h-100 pb-4">
-        <Card className="benefit-card h-100 custom-card">
+        <Card className="benefit-card h-100">
           <div className="cursorPointer" onClick={() => setShowModal(true)}>
             <Card.Title className="">
               <div className="">
@@ -38,8 +38,8 @@ function CompanyCard({ data }) {
               href={data.companyUrl}
               className="text-decoration-none"
               target="_blank"
+              rel="noreferrer"
             >
-              {" "}
               {data.companyUrl}
             </a>
           </div>

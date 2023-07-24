@@ -68,8 +68,8 @@ export default function Footer() {
         </div>
         <div className="col-lg-6 col-12">
           <div className="">
-            <h6 class="text-end">Designed by: Shrinidhi Upadhya</h6>
-            <h6 class="text-end">Developed by: Rajesh Kumar</h6>
+            <h6 className="text-end">Designed by: Shrinidhi Upadhya</h6>
+            <h6 className="text-end">Developed by: Rajesh Kumar</h6>
           </div>
         </div>
       </Row>

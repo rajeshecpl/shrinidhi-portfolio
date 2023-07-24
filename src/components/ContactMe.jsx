@@ -23,13 +23,13 @@ export default function ContactMe() {
             </div>
             <div className="row">
               <div className="col-lg-4 col-md-4 col-12 text-center ContactColor">
-                Whatsapp - 9986706697 <img src={arrow} alt="arrow" class="ms-1" />
+                Whatsapp - 9986706697 <img src={arrow} alt="arrow" className="ms-1" />
               </div>
               <div className="col-lg-4 col-md-4 col-12 text-center ContactColor">
-                Call me +91 9986706697<img src={arrow} alt="arrow"class="ms-2" />
+                Call me +91 9986706697<img src={arrow} alt="arrow"className="ms-2" />
               </div>
               <div className="col-lg-4 col-md-4 col-12 text-center ContactColor">
-                View Portfolio<img src={arrow} alt="arrow"class="ms-2" />
+                View Portfolio<img src={arrow} alt="arrow"className="ms-2" />
               </div>
             </div>
      
