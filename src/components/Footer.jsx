@@ -7,7 +7,6 @@ import Call_Icon from "../../src/assets/images/Call_Icon.svg";
 import Message_Icon from "../../src/assets/images/Message_Icon.svg";
 import WhatsApp_Icon from "../../src/assets/images/WhatsApp_Icon.svg";
 import Be_Icon from "../../src/assets/images/Be_Icon.svg";
-import { Link } from "react-router-dom";
 
 export default function Footer() {
   return (
