@@ -1,13 +1,13 @@
 import React from "react";
 import "../assets/scss/index.scss";
-import { Container, Row, Card } from "react-bootstrap";
+import { Container, Row} from "react-bootstrap";
 import Research_and_Planning_Image from "../assets/images/feedback_1_Image.svg";
 import feedback from "../../src/json/feedback.json";
 import FeedbackCard from "./FeedbackCard";
 import tree from "../assets/images/treeConnect.svg"
 
 export default function Feedback() {
-  console.log(feedback, "feed");
+ 
   return (
     <div className="bgFeedback customCard">
       <Container className="py-5">

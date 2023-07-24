@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e18b1fc6.css",
+    "main.js": "/static/js/main.553e689a.js",
+    "static/js/787.f90aa6d6.chunk.js": "/static/js/787.f90aa6d6.chunk.js",
+    "static/media/feedback_1_Image.svg": "/static/media/feedback_1_Image.49b5fc6a31c964d7c8018ba73e648e66.svg",
+    "static/media/ShrinidhiImage.svg": "/static/media/ShrinidhiImage.5808c26d616e68fa8e1fe340346c34b5.svg",
+    "static/media/resume.pdf": "/static/media/resume.9256e94037f004558a41.pdf",
+    "static/media/design.svg": "/static/media/design.9e9e59f7e7856955f6b3725adccdc020.svg",
+    "static/media/WhyHireMe_8.svg": "/static/media/WhyHireMe_8.6dc61b299b0ce26dc2f39cf7e7de9acd.svg",
+    "static/media/WhyHireMe_9.svg": "/static/media/WhyHireMe_9.6beaa5ec5a7feb422a8b69d2c41c2904.svg",
+    "static/media/WhyHireMe_7.svg": "/static/media/WhyHireMe_7.ca78c955680062b5d9d3a7f5d9d23150.svg",
+    "static/media/instagram.svg": "/static/media/instagram.3bf0e1b13e47b7a0ac027ec024dc7633.svg",
+    "static/media/WhyHireMe_5.svg": "/static/media/WhyHireMe_5.74474807b8f6a35a54afbb3c47341cdf.svg",
+    "static/media/WhyHireMe_4.svg": "/static/media/WhyHireMe_4.44a49b1baed3243c652259c2a4e27ef5.svg",
+    "static/media/WhyHireMe_6.svg": "/static/media/WhyHireMe_6.01fc6d7184b114723350b1e4ed88016e.svg",
+    "static/media/WhyHireMe_1.svg": "/static/media/WhyHireMe_1.202f899e62c74f0432f68d10f6e062c5.svg",
+    "static/media/WhyHireMe_3.svg": "/static/media/WhyHireMe_3.bbdf474940ed33359d27de9af3cc585c.svg",
+    "static/media/facebook.svg": "/static/media/facebook.f2b8d6ec2b497f8ab68c322a079e58e7.svg",
+    "static/media/WhatsApp_Icon.svg": "/static/media/WhatsApp_Icon.00f689a3aa5934015b0b2711c6d30068.svg",
+    "static/media/Insta_Icon.svg": "/static/media/Insta_Icon.ffb7c2cdbaa23bbb0222a4d08b76d6c8.svg",
+    "static/media/Call_Icon.svg": "/static/media/Call_Icon.fe1babb0d487f768d45105da47df3f76.svg",
+    "static/media/linkedin_Icon.svg": "/static/media/linkedin_Icon.ae9d1fb04b0ec88a383f634bf1afc862.svg",
+    "static/media/Message_Icon.svg": "/static/media/Message_Icon.f587d91bb030826693295cf22df50ea1.svg",
+    "static/media/treeConnect.svg": "/static/media/treeConnect.2c993f51ca7d3d4e22b88f468f969f30.svg",
+    "static/media/WhyHireMe_2.svg": "/static/media/WhyHireMe_2.143bb22890f5ec43a2037f73b69d59e2.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.98b7750bb2394ba5a8194cef413835f3.svg",
+    "static/media/Be_Icon.svg": "/static/media/Be_Icon.9be7f805862972bff77a1aa2cf0a3930.svg",
+    "index.html": "/index.html",
+    "static/media/Arrow_Green_Icon.svg": "/static/media/Arrow_Green_Icon.e5cdcacbf96c67f7484eaec6a68190d4.svg",
+    "static/media/arrow.svg": "/static/media/arrow.d5e547b3045b28e908b527f80a64aebc.svg",
+    "static/media/line.svg": "/static/media/line.4620bda2d85fb81780f9168a874b9f05.svg",
+    "main.e18b1fc6.css.map": "/static/css/main.e18b1fc6.css.map",
+    "main.553e689a.js.map": "/static/js/main.553e689a.js.map",
+    "787.f90aa6d6.chunk.js.map": "/static/js/787.f90aa6d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18b1fc6.css",
+    "static/js/main.553e689a.js"
+  ]
+}

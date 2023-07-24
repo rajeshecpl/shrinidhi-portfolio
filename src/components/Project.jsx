@@ -6,8 +6,7 @@ import CompanyCard from "../components/CompanyCard"
 import companyList from "../json/companyList.json"
 
 export default function Project() {
-     
-      console.log(companyList,"project")
+    
   return (
     <Container>
       <div className="mt-5">

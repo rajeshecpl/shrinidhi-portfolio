@@ -25,26 +25,9 @@ const HeadNavbar = () => {
     setIsOpen(false);
   };
 
-  // useEffect(() => {
-  //   const handleScroll = () => {
-  //     const navbar = document.querySelector(".navbar");
-  //     if (window.scrollY > 0) {
-  //       navbar.classList.add("sticky");
-  //     } else {
-  //       navbar.classList.remove("sticky");
-  //     }
-  //   };
-
-  //   window.addEventListener("scroll", handleScroll);
-
-  //   return () => {
-  //     window.removeEventListener("scroll", handleScroll);
-  //   };
-  // }, []);
-
   return (
     <div>
-         <Sticky topOffset={0}>
+         <Sticky topOffset={0} >
           <Navbar className="navbar">
             <Container>
               <div className="d-flex justify-content-between w-100">

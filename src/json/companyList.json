@@ -8,10 +8,55 @@
     "companyUrl": "https://www.eraofwe.com/",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/Era_of_we_Image.svg",
         "modalHeader": "1ERA of we summary",
         "modalText": "full information",
-        "modalUrl": "https://www.eraofwe.com/"
+        "modalUrl": "https://www.eraofwe.com/",
+        "about": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum  ",
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+          "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum  ",
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        ],
+        "modalBodyImage": "/Era_of_we_Image.svg",
+        "workOn": [
+          "Worked on 10 portals: Contributed to the creation and maintenance of 10 web portals. ",
+          "Designed screens for various devices: Developed screens for desktops, tablets, and mobiles, ensuring compatibility across different screen sizes.",
+          "Worked on 10 portals: Contributed to the creation and maintenance of 10 web portals. ",
+          "Designed screens for various devices: Developed screens for desktops, tablets, and mobiles, ensuring compatibility across different screen sizes.",
+          "Worked on 10 portals: Contributed to the creation and maintenance of 10 web portals. ",
+          "Designed screens for various devices: Developed screens for desktops, tablets, and mobiles, ensuring compatibility across different screen sizes.",
+          "Worked on 10 portals: Contributed to the creation and maintenance of 10 web portals. ",
+          "Designed screens for various devices: Developed screens for desktops, tablets, and mobiles, ensuring compatibility across different screen sizes."
+        ],
+        "ourMission": [
+          "Connect and empower our supply chain partners to generate shared value, new revenue streams, and ultimately provide an unmatched coffee experience for the world.",
+          "Connect and empower our supply chain partners to generate shared value, new revenue streams, and ultimately provide an unmatched coffee experience for the world."
+        ],
+        "purpose": "Our business is purpose-driven, and rebalances the coffee value chain by passing the power from brands to producers through optimistic capitalism.",
+        "purposeArray": [
+          {
+            "id": 1,
+            "header": "Crafting Intuitive and Engaging User Experiences with UX Design ",
+            "headerImg": "/purposeIcon_1.svg"
+          },
+          {
+            "id": 2,
+            "header": "Crafting Intuitive and Engaging User Experiences with UX Design ",
+            "headerImg": "/purposeIcon_2.svg"
+          },
+          {
+            "id": 3,
+            "header": "Crafting Intuitive and Engaging User Experiences with UX Design ",
+            "headerImg": "/purposeIcon_3.svg"
+          },
+          {
+            "id": 4,
+            "header": "Crafting Intuitive and Engaging User Experiences with UX Design ",
+            "headerImg": "/purposeIcon_4.svg"
+          }
+        ]
       }
     ]
   },
@@ -24,7 +69,7 @@
     "companyUrl": "https://opsiocloud.com/",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/Optio_Image.svg",
         "modalHeader": "E2RA of we summary",
         "modalText": "full information",
         "modalUrl": "https://www.eraofwe.com/"
@@ -40,7 +85,7 @@
     "companyUrl": "https://www.softobotics.com/",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/Softobotics_Image.svg",
         "modalHeader": "ERA3 of we summary",
         "modalText": "full information",
         "modalUrl": "https://www.eraofwe.com/"
@@ -56,7 +101,7 @@
     "companyUrl": "https://dxia.co.jp/",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/DXIA _Image.svg",
         "modalHeader": "ERdfdfA of we summary",
         "modalText": "full information",
         "modalUrl": "https://www.eraofwe.com/"
@@ -72,7 +117,7 @@
     "companyUrl": "https://staging.seqops.io/en/",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/Seqops_Image.svg",
         "modalHeader": "ERAdfdfddfd of we summary",
         "modalText": "full information",
         "modalUrl": "https://www.eraofwe.com/"
@@ -88,7 +133,7 @@
     "companyUrl": "https://dev.mjin.space/login",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/Mjin_Image.svg",
         "modalHeader": "ERA dfdfd we summary",
         "modalText": "full information",
         "modalUrl": "https://www.eraofwe.com/"
@@ -104,7 +149,7 @@
     "companyUrl": "https://www.cloudshrub.com/",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/Cloudshrub_Image.svg",
         "modalHeader": "ERA dfdfdfof we summary",
         "modalText": "full information",
         "modalUrl": "https://www.eraofwe.com/"
@@ -120,7 +165,7 @@
     "companyUrl": "https://portal.softobotics.com/",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/TMS_Image.svg",
         "modalHeader": "ERA of wsdgsdgdfhe summary",
         "modalText": "full information",
         "modalUrl": "https://www.eraofwe.com/"
@@ -136,7 +181,7 @@
     "companyUrl": "https://tofes4.co.il/auth?returnUrl=%2F",
     "companyModal": [
       {
-        "modaImage": "Era_of_we_Image.svg",
+        "modaImage": "/TOFES4_Image.svg",
         "modalHeader": "ERA asdasdasdasdof we summary",
         "modalText": "full information",
         "modalUrl": "https://www.eraofwe.com/"
