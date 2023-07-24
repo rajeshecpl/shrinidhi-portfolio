@@ -1,4 +1,3 @@
-// Import the necessary dependencies
 import React from "react";
 import { Container, Row } from "react-bootstrap";
 import Insta_Icon from "../../src/assets/images/Insta_Icon.svg";
