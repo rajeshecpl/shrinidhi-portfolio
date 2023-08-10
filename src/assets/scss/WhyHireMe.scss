@@ -1,3 +1,15 @@
 .WhyHireMeBG{
     background-color: #F6F6F6;
 }
+
+.desktopView, .mobileView {
+    transition: opacity 0.3s ease;
+}
+
+.d-none {
+    display: none !important;
+}
+
+.carousel-indicators {
+    display: none;
+}

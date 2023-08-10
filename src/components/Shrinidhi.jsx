@@ -12,8 +12,8 @@ const Shrinidhi = () => {
   return (
     <Container>
       <Row>
-        <div className="align-items-center col-6 d-flex">
-          <div className="col-10">
+      <div className="align-items-center col-lg-6 d-flex order-1 order-lg-0">
+          <div className="col-lg-10">
             <div className="">
               <h1 className="fw-600 fs-58">
                 I have <span className="creativeDesign">Creative Design</span>{" "}
@@ -36,15 +36,14 @@ const Shrinidhi = () => {
             </div>
           </div>
         </div>
-        <div className="align-items-center col-6 d-flex">
+        <div className="align-items-center col-lg-6 d-flex order-0 order-lg-1">
           <div className="col-11">
-            <img src={ProfileImage} alt="ProfileImage" />
+            <img src={ProfileImage} alt="ProfileImage" className="w-100" />
           </div>
           <div className="col-1 h-100">
             <div className="h-25">
               <h6 className="m-0 px-4 rotate-90 h-25">Follow me on:</h6>
             </div>
-
             <div className="d-flex justify-content-center">
               <img src={line} alt="" />
             </div>

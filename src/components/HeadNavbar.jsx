@@ -10,6 +10,9 @@ import resume from "../../src/assets/resume/resume.pdf";
 import Dropdown from "react-bootstrap/Dropdown";
 import DropdownButton from "react-bootstrap/DropdownButton";
 import Sticky from "react-sticky-el";
+import Form from 'react-bootstrap/Form';
+import NavDropdown from 'react-bootstrap/NavDropdown';
+import Offcanvas from 'react-bootstrap/Offcanvas';
 
 const HeadNavbar = () => {
   const handleDownload = () => {
@@ -24,25 +27,33 @@ const HeadNavbar = () => {
   const handleMouseLeave = () => {
     setIsOpen(false);
   };
-
   return (
     <div>
-         <Sticky topOffset={0} >
-          <Navbar className="navbar">
-            <Container>
-              <div className="d-flex justify-content-between w-100">
-                <div className="">
+    <Sticky topOffset={0} >
+    <Navbar expand="md" className="navbar mb-3">
+      <Container fluid>
+        <Navbar.Brand href="#">
+        <div className="">
                   <img src={shrinidhi} alt="logo" className="me-2" />
                   Shrinidhi Upadhya
                 </div>
-                <Nav className="align-items-center d-flex justify-content-end ms-5">
-                  <Nav.Link className="me-3 headerText" href="#pricing">
-                    Testimonial
-                  </Nav.Link>
-                  <Nav.Link className="me-3 headerText" href="#pricing">
-                    Skills
-                  </Nav.Link>
-                  <DropdownButton
+        </Navbar.Brand>
+        <Navbar.Toggle aria-controls="offcanvasNavbar" />
+        <Navbar.Offcanvas
+          id="offcanvasNavbar"
+          aria-labelledby="offcanvasNavbarLabel"
+          placement="end"
+        >
+          <Offcanvas.Header closeButton>
+            <Offcanvas.Title id="offcanvasNavbarLabel">
+            Shrinidhi Upadhya
+            </Offcanvas.Title>
+          </Offcanvas.Header>
+          <Offcanvas.Body>
+            <Nav className="justify-content-end flex-grow-1 align-items-lg-center">
+              <Nav.Link className="me-3 headerText" href="#action1">Testimonial</Nav.Link>
+              <Nav.Link className="me-3 headerText" href="#action2">Skills</Nav.Link>
+              <DropdownButton
                     id="dropdown-basic-button"
                     title="Project"
                     onMouseEnter={handleMouseEnter}
@@ -101,7 +112,7 @@ const HeadNavbar = () => {
                     >
                       TOFES4
                     </Dropdown.Item>
-                  </DropdownButton>
+              </DropdownButton>
                   <Nav.Link className="me-3 headerText" href="#pricing">
                     Portfolio
                   </Nav.Link>
@@ -114,13 +125,14 @@ const HeadNavbar = () => {
                       Download CV
                     </Button>
                   </Nav.Link>
-                </Nav>
-              </div>
-            </Container>
-          </Navbar>
-         </Sticky>
+            </Nav>
+          </Offcanvas.Body>
+        </Navbar.Offcanvas>
+      </Container>
+    </Navbar>
+    </Sticky>
     </div>
   );
-};
+}
 
 export default HeadNavbar;
