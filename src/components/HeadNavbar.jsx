@@ -10,8 +10,6 @@ import resume from "../../src/assets/resume/resume.pdf";
 import Dropdown from "react-bootstrap/Dropdown";
 import DropdownButton from "react-bootstrap/DropdownButton";
 import Sticky from "react-sticky-el";
-import Form from 'react-bootstrap/Form';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import Offcanvas from 'react-bootstrap/Offcanvas';
 
 const HeadNavbar = () => {
