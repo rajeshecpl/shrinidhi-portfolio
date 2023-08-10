@@ -36,6 +36,13 @@
 .fs-58{
     font-size: 58px!important;
 }
+.fs-48{
+    font-size: 48px!important;
+}
+.fs-28{
+    font-size: 28px!important;
+}
+
 
 .cursorPointer{
     cursor: pointer!important;
@@ -60,4 +67,29 @@ background-color: #31855C;
   .customCard {
     position: relative!important;
     z-index: -1!important;
-  }
+}
+
+@media (max-width: 768px) {
+    .fs-58{
+        font-size: 32px!important;
+    }
+    .fs-16{
+        font-size: 12px!important;
+    }
+    .fs-32{
+        font-size: 20px!important;
+    }
+    .fs-20{
+        font-size: 12px!important;
+    }
+    .fs-16{
+        font-size: 14px!important;
+    }
+    .fs-48{
+        font-size: 21px!important;
+    }
+    .fs-28{
+        font-size: 13px!important;
+    }
+}
+

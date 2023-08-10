@@ -11,7 +11,10 @@ export default function Project() {
     <Container>
       <div className="mt-5">
         <div className="d-flex justify-content-center">
-          <h1 className="fw-600">My Creative Works Latest Projects</h1>
+          <h1 className="fw-600 fs-32">My Creative Works Latest Projects</h1>
+        </div>
+        <div className="d-flex justify-content-center">
+          <p className="fs-20 fw-400 text-center w-75">Embark on a journey through my latest creative works, where imagination meets reality. Discover the artistry that breathes life into my projects, a testament to boundless creativity.</p>
         </div>
       </div> 
 

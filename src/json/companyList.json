@@ -124,7 +124,7 @@
   {
     "id": 3,
     "blogImage": "/Softobotics_Image.svg",
-    "slug": "/optio",
+    "slug": "/softobotics",
     "header": "Softobotics",
     "headerText": "Indian - Global Business Solutions IT, Provider for Client Success.",
     "companyUrl": "https://www.softobotics.com/",
@@ -185,7 +185,7 @@
   {
     "id": 4,
     "blogImage": "/DXIA _Image.svg",
-    "slug": "/optio",
+    "slug": "/dixia",
     "header": "DXIA",
     "headerText": "Japan - Digital Projects - Trusted by Government Agencies and Diverse Industries.",
     "companyUrl": "https://dxia.co.jp/",
@@ -246,7 +246,7 @@
   {
     "id": 5,
     "blogImage": "/Seqops_Image.svg",
-    "slug": "/optio",
+    "slug": "/seqops",
     "header": "Seqops",
     "headerText": "Sweden - Data analytics and generating the solutions.",
     "companyUrl": "https://staging.seqops.io/en/",
@@ -262,7 +262,7 @@
   {
     "id": 6,
     "blogImage": "/Mjin_Image.svg",
-    "slug": "/optio",
+    "slug": "/mjin",
     "header": "Mjin",
     "headerText": "Japan -  Digital momentum with advanced overseas technology.",
     "companyUrl": "https://dev.mjin.space/login",
@@ -445,7 +445,7 @@
   {
     "id": 9,
     "blogImage": "/TOFES4_Image.svg",
-    "slug": "/optio",
+    "slug": "/tofes",
     "header": "TOFES4",
     "headerText": "Israel - Home reviews and tax commission management website.",
     "companyUrl": "https://tofes4.co.il/auth?returnUrl=%2F",

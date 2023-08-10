@@ -21,6 +21,9 @@
     border: none!important;
     color: black!important;
     padding: 6px 12px!important;
+    @media (max-width: 991px) {
+    padding: 6px 0px!important;
+    }
   }
 
   .dropdown-toggle:hover{
