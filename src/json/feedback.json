@@ -1,25 +1,25 @@
 [
     {
       "id": 1,
-      "feedbackImage": "/Softobotics_Image.svg",
+      "feedbackImage": "/Data_Collection_Image.png",
       "headerTitle":"Data Collection",
       "headerText": "Collect both qualitative and quantitative data to gain insights into user behavior, needs, and preferences."
     },
     {
       "id": 2,
-      "feedbackImage": "/Softobotics_Image.svg",
+      "feedbackImage": "/Analysis_Image.png",
       "headerTitle":"Analysis",
       "headerText": " Look for common themes and issues that emerge from the data to gain a deeper understanding of user experiences."
     },
     {
       "id": 3,
-      "feedbackImage": "/Softobotics_Image.svg",
+      "feedbackImage": "/Reporting_&_Recommendations_Image.png",
       "headerTitle":"Reporting & Recommendations",
       "headerText": "Provide actionable recommendations based on the insights & design decisions and improve the user experience."
     },
     {
       "id": 4,
-      "feedbackImage": "/Softobotics_Image.svg",
+      "feedbackImage": "/Iterative_Design_Image.png",
       "headerTitle":"Iterative Design",
       "headerText": "This step involves incorporating user insights into the design and continually refining it to meet user needs effectively."
     }

@@ -10,8 +10,8 @@ export default function OptimisticDesign() {
   return (
     <Container className='my-5'>
       <Row>
-        <div className="col-7"><img src={design} alt="optimisticsDesign" className='w-100' /></div>
-        <div className="align-items-center col-lg-5 d-flex justify-content-center">
+        <div className="col-lg-7"><img src={design} alt="optimisticsDesign" className='w-100' /></div>
+        <div className="align-items-center col-lg-5 d-flex justify-content-center pt-lg-0 pt-3">
             <div className="">
             <div>
                 <h4 className='text-uppercase fs-16'>New optimistic Design thinking</h4>

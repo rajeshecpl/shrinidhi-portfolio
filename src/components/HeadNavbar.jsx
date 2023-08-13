@@ -29,7 +29,7 @@ const HeadNavbar = () => {
     <div>
     <Sticky topOffset={0} >
     <Navbar expand="md" className="navbar mb-3">
-      <Container fluid>
+      <Container fluid className="container">
         <Navbar.Brand href="#">
         <div className="">
                   <img src={shrinidhi} alt="logo" className="me-2" />
