@@ -1,6 +1,6 @@
 import React from 'react'
 import "../assets/scss/CompanyList.scss"
-import CompanyListCard from './CompanyListCard'
+// import CompanyListCard from './CompanyListCard'
 import { Container, Row } from "react-bootstrap";
 
 export default function CompanyList() {
@@ -17,7 +17,7 @@ export default function CompanyList() {
           {/* {rentTypeList.map((item) => (
             <RentTypeCard key={item.id} data={item} />
           ))} */}
-          <CompanyListCard/>
+          {/* <CompanyListCard/> */}
         </Row>
       </Container>
     </div>
