@@ -6,8 +6,14 @@ import feedback from "../../src/json/feedback.json";
 import FeedbackCard from "./FeedbackCard";
 import tree from "../assets/images/treeConnect.svg";
 import "../../src/assets/scss/Feedback.scss";
+import { Button } from "react-bootstrap";
+import resume from "../../src/assets/resume/resume.pdf";
 
 export default function Feedback() {
+  const handleDownload = () => {
+    window.open(resume, "_blank");
+  };
+
   return (
     <div className="bgFeedback customCard">
       <Container className="py-5">
@@ -21,8 +27,17 @@ export default function Feedback() {
                 Discover the key highlights of my professional experience
               </h6>
             </div>
-            <div className="">
+            <div className="mt-3">
               <button className="btn btn-success">Contact Me</button>
+            </div>
+            <div className="mt-4">
+              <Button
+                className="bg-white border border-2 btn btn-light downloadBorder headerText"
+                variant="light"
+                onClick={handleDownload}
+              >
+                Download CV
+              </Button>
             </div>
           </div>
           <div className="col-lg-6">

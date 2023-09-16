@@ -58,7 +58,7 @@ export default function WhyHireMe() {
 
         <div className={`desktopView ${isMobile ? "d-none" : ""}`}>
           <Row className="mt-5 mb-4">
-            <div className="col-3 text-center">
+            <div className="col-3 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_1} alt="" />
               </div>
@@ -66,7 +66,7 @@ export default function WhyHireMe() {
                 <h6>User Interface Design</h6>
               </div>
             </div>
-            <div className="col-2 text-center">
+            <div className="col-2 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_2} alt="" />
               </div>
@@ -74,7 +74,7 @@ export default function WhyHireMe() {
                 <h6>User Experience Design</h6>
               </div>
             </div>
-            <div className="col-2 text-center">
+            <div className="col-2 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_3} alt="" />
               </div>
@@ -82,7 +82,7 @@ export default function WhyHireMe() {
                 <h6>Prototyping</h6>
               </div>
             </div>
-            <div className="col-2 text-center">
+            <div className="col-2 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_4} alt="" />
               </div>
@@ -90,7 +90,7 @@ export default function WhyHireMe() {
                 <h6>Testing</h6>
               </div>
             </div>
-            <div className="col-3 text-center">
+            <div className="col-3 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_5} alt="" />
               </div>
@@ -100,7 +100,7 @@ export default function WhyHireMe() {
             </div>
           </Row>
           <Row className="justify-content-center mb-4 mt-5">
-            <div className="col-3 text-center">
+            <div className="col-3 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_6} alt="" />
               </div>
@@ -108,7 +108,7 @@ export default function WhyHireMe() {
                 <h6>Web Design</h6>
               </div>
             </div>
-            <div className="col-2 text-center">
+            <div className="col-2 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_7} alt="" />
               </div>
@@ -116,7 +116,7 @@ export default function WhyHireMe() {
                 <h6>Mobile Design</h6>
               </div>
             </div>
-            <div className="col-2 text-center">
+            <div className="col-2 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_8} alt="" />
               </div>
@@ -124,7 +124,7 @@ export default function WhyHireMe() {
                 <h6>Branding & Logo</h6>
               </div>
             </div>
-            <div className="col-3 text-center">
+            <div className="col-3 text-center colorChange">
               <div className="">
                 <img src={WhyHireMe_9} alt="" />
               </div>
