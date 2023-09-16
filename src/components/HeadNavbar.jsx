@@ -31,9 +31,10 @@ const HeadNavbar = () => {
     <Navbar expand="md" className="navbar mb-3">
       <Container fluid className="container">
         <Navbar.Brand href="#">
-        <div className="">
+        <div className="align-items-center d-flex">
                   <img src={shrinidhi} alt="logo" className="me-2" />
-                  Shrinidhi Upadhya
+              
+                  <Nav.Link className="me-3 headerText" href="#action2">Shrinidhi Upadhya</Nav.Link>
                 </div>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="offcanvasNavbar" />
