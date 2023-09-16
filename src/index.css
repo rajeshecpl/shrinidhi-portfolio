@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* In your CSS file or style block */
+body {
+  /* Hide scrollbar for IE, Edge, and Firefox */
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  -ms-overflow-style: none;
+
+  /* Hide scrollbar for WebKit browsers (Chrome, Safari) */
+  &::-webkit-scrollbar {
+    width: 0px; /* Adjust the width as needed */
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: transparent;
+  }
+}

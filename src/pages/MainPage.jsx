@@ -8,6 +8,7 @@ import DesignTools from "../components/DesignTools";
 import ContactMe from "../components/ContactMe";
 import Footer from "../components/Footer";
 import HeadNavbar from "../components/HeadNavbar";
+import CompanyList from "../components/CompanyList";
 
 export default function MainPage() {
   return (
@@ -19,6 +20,7 @@ export default function MainPage() {
       <OptimisticDesign />
       <Feedback />
       <DesignTools />
+      <CompanyList/>
       <ContactMe />
       <Footer />
     </div>
